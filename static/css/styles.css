@@ -1,0 +1,57 @@
+#topcontainer {
+    background: url("../images/backgrounds/h_img.jpg");
+    text-transform: uppercase;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div img#dslogo {
+    width: 96px;
+    align-self: center;
+}
+ 
+div img#mclick {
+    width: 23px;
+    align-self: center;
+    position: absolute;
+    bottom: 23px;
+}
+
+div#txtcont {
+    padding: 30px;
+}
+
+#servicescont {
+    background: url("../images/backgrounds/s_image.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding: 25px;
+}
+
+#whcont div div img {
+    height: 90px;
+    
+}
+
+#portimg {
+    padding: 15px;
+}
+#portimg img{
+    width: 100%;
+}
+
+#brmcont{
+    background:url("../images/backgrounds/c_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+    
+}
+
+#clcont input, #clcont textarea {
+    background: transparent;
+}
+
+#social_icons {
+    padding: 15px;
+}
