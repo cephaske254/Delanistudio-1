@@ -5,9 +5,7 @@
 [najlarashid]()
 
 ## Description
-
-This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
-
+We unifies design, development and product management to create exceptional products. https://najlarashid.github.io/Delanis…
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
