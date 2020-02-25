@@ -7,3 +7,8 @@ $(document).ready(function(){
         //alert("out")
     });
 })
+$("div#whcont div.row .col-md-3").click(function(){
+   // alert("");
+    $(this).find(".visible").slideToggle();
+    $(this).find(".hidden").slideToggle();
+});
